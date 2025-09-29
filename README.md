@@ -1,6 +1,5 @@
 # heart-disease-prediction
-Got it 👍
-Here’s a **general `README.md`** you can use for GitHub, not too detailed but still professional:
+
 
 ---
 
